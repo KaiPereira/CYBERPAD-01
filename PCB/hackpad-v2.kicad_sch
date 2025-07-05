@@ -2230,7 +2230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 173.99 67.31 0)
 			(effects
 				(font
@@ -2372,7 +2372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 97.79 44.45 0)
 			(effects
 				(font
@@ -2448,7 +2448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 158.75 44.45 0)
 			(effects
 				(font
@@ -2524,7 +2524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 128.27 44.45 0)
 			(effects
 				(font
@@ -2797,7 +2797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 143.51 44.45 0)
 			(effects
 				(font
@@ -2941,7 +2941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 128.27 67.31 0)
 			(effects
 				(font
@@ -3148,7 +3148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 189.23 44.45 0)
 			(effects
 				(font
@@ -3224,7 +3224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 113.03 44.45 0)
 			(effects
 				(font
@@ -3367,7 +3367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 204.47 44.45 0)
 			(effects
 				(font
@@ -3443,7 +3443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 158.75 67.31 0)
 			(effects
 				(font
@@ -3724,7 +3724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 97.79 67.31 0)
 			(effects
 				(font
@@ -3866,7 +3866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 113.03 67.31 0)
 			(effects
 				(font
@@ -4045,7 +4045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 173.99 44.45 0)
 			(effects
 				(font
@@ -4121,7 +4121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kai's library:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 143.51 67.31 0)
 			(effects
 				(font

@@ -101,3 +101,11 @@ Rewired + new schematic.
 
 ![[Pasted image 20250703010949.png]]
 
+Next I did the firmware. It was really simple, just some python with KMK.
+
+![[Pasted image 20250703152029.png]]
+
+Next I completely forgot but I needed a USB port so I added that in.
+
+![[Pasted image 20250703152156.png]]
+
