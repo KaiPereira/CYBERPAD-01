@@ -1,4 +1,3 @@
 # Cyberpad - Cyberpunk Themed Macropad
 
-!(Pasted image 20250705163430.png)[Cyberpad Render]
-
+![Journal Image](journal/Pasted%20image%2020250705163430.png)
