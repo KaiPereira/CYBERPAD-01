@@ -1,4 +1,6 @@
-## Day 1 - PCB - 5 Hours
+## Total Time Spent on This Project: 25 Hours
+
+## Day 1 - PCB - 5 Hours - Jun 30th
 
 The Cyber Pad is going to be an extremely futuristic looking macropad.
 
@@ -154,5 +156,4 @@ And then finally, I had to add a new CAD folder with just my full case and then 
 
 Time to add this on GitHub now, so journal... out....
 
-## Total Time Spent on This Project: 25 Hours
 
