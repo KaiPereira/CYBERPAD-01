@@ -14,9 +14,10 @@ The CYBERPAD-01 is a cyberpunk inspired macropad with 3 keys, a rotary encoder, 
 
 The laser cut acrylic panel is held together using minimalist bolts and spacers attached to the top plate. The actual case is designed so that everything can fit together seamlessly without using any screws or bolts for minimalism and aesthetics while still being secure.
 
-![Pasted image 20250705183413.png](journal/Pasted%20image%2020250705183413.png)
+![Pasted image 20250705185532.png](journal/Pasted%20image%2020250705185532.png)
 
-![Pasted image 20250705183502.png](journal/Pasted%20image%2020250705183502.png)
+![Pasted image 20250705185258.png](journal/Pasted%20image%2020250705185258.png)
+
 
 It comprises of 3 separate 3D printed parts though, the bottom plate/aesthetic walls, the walls, and the top plate, with the 4th part being the acrylic top panel, so it's a bit difficult to print, but manageable. *Made in Onshape*
 
