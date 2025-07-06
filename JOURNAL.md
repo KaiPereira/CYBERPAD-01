@@ -89,11 +89,13 @@ But we are not finished, nowhere near the craziness I want. Next I'm going to ad
 
 I also refined the design a bit so it's easier to print and it looks pretty good. 
 
+## Day 3 - Refining the PCB and Case
+
 Next I need to customize the PCB so that it looks rlly cool inside of the case. I wanna go for like exposed trace with cyberpunk drawings style. I used the case DXF as a reference point, and then used figma to draw the lines. Then I just add the image properly scaled to kicad.
 
 ![[Pasted image 20250703001123.png]]
 
-Now I completely forgot to add the neopixels so lemme do that real quick.
+Now I completely forgot to add the neopixels so let me do that real quick.
 
 ![[Pasted image 20250703010923.png]]
 
@@ -108,4 +110,28 @@ Next I did the firmware. It was really simple, just some python with KMK.
 Next I completely forgot but I needed a USB port so I added that in.
 
 ![[Pasted image 20250703152156.png]]
+
+Then I'll just add the bolt heads and such, and we're done with the case!
+
+![[Pasted image 20250705194413.png]]
+
+## Day 4 - Rendering
+
+Now I've never used Blender before, but I really want to render my case and PCB. But before that, I have to update my KiCad! And it may have taken me way too long, but after 2 hours, I've updated KiCad.
+
+Now I can export the PCB with silkscreen (brand new feature!!) and add it to blender alongside my case.
+
+![[Pasted image 20250705194937.png]]
+
+I've also added this cool blueprint effect on the plane I've put my model on which will look really futuristic in the render. To do this, I just used a wireframe on the plane and then gave them 2 different meshes. Now all this stuff took way longer than I'm making it seem but yeah that's basically what I did.
+
+Next I added all the meshes and rendered everything, I couldn't figure out lighting so I may or may not have just used the photo's from the render without light.
+
+![[Pasted image 20250705195234.png]]
+
+And there's our render completed!
+
+## Day 5 - Github Shenanigans
+
+Now I needed to add all of this to GitHub, I left everything pretty organized so it won't be too much of a hassle! I pretty much have everything in there except for the production files so let's add those!
 

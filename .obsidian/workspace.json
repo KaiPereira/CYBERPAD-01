@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "JOURNAL"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for JOURNAL"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from JOURNAL"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "JOURNAL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of JOURNAL"
             }
           }
         ]
@@ -170,23 +170,24 @@
   },
   "active": "f92871d99c8b1935",
   "lastOpenFiles": [
+    "journal/Pasted image 20250705195234.png",
+    "journal/Pasted image 20250705194937.png",
+    "journal/Pasted image 20250705194907.png",
+    "journal/Pasted image 20250705194413.png",
+    "README.md",
     "README.md~",
     "journal/Pasted image 20250705185532.png",
     "journal/Pasted image 20250705185258.png",
     "JOURNAL.md",
     "journal/![[Pasted.md",
-    "README.md",
     "Pasted image 20250705185238.png",
     "journal/Pasted image 20250705183413.png",
     "journal/Pasted image 20250705183446.png",
     "journal/Pasted image 20250705183502.png",
     "journal/Pasted image 20250705183935.png",
-    "journal/Pasted image 20250705184029.png",
-    "Pasted image 20250705184029.png",
     "PCB/fp-info-cacheWVsLLj",
     "PCB/~hackpad-v2.kicad_pcb.lck",
     "PCB/~hackpad-v2.kicad_pro.lck",
-    "Pasted image 20250705183935.png",
     "PCB/hackpad-v2-backups/hackpad-v2-2025-07-05_183931.zip",
     "PCB/~hackpad-v2.kicad_sch.lck",
     "PCB/hackpad-v2-backups/hackpad-v2-2025-07-05_182716.zip",
