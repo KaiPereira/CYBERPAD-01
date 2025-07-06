@@ -1,4 +1,4 @@
-## Day 1 - PCB
+## Day 1 - PCB - 5 Hours
 
 The Cyber Pad is going to be an extremely futuristic looking macropad.
 
@@ -23,7 +23,7 @@ Now time to do the PCB, took me quite a long time because I was figuring out som
 ![[Pasted image 20250627020624.png]]
 
 
-## Day 2 - Case
+## Day 2 - Case - 8 Hours
 
 Now I'm going to start modelling the case, I'm going to give about 1cm total on each side just as a placeholder and then I'm going to model the main interior of the bottom I want to go for.
 
@@ -89,7 +89,7 @@ But we are not finished, nowhere near the craziness I want. Next I'm going to ad
 
 I also refined the design a bit so it's easier to print and it looks pretty good. 
 
-## Day 3 - Refining the PCB and Case
+## Day 3 - Refining the PCB and Case - 4 Hours
 
 Next I need to customize the PCB so that it looks rlly cool inside of the case. I wanna go for like exposed trace with cyberpunk drawings style. I used the case DXF as a reference point, and then used figma to draw the lines. Then I just add the image properly scaled to kicad.
 
@@ -115,7 +115,7 @@ Then I'll just add the bolt heads and such, and we're done with the case!
 
 ![[Pasted image 20250705194413.png]]
 
-## Day 4 - Rendering
+## Day 4 - Rendering - 6 Hours
 
 Now I've never used Blender before, but I really want to render my case and PCB. But before that, I have to update my KiCad! And it may have taken me way too long, but after 2 hours, I've updated KiCad.
 
@@ -131,7 +131,28 @@ Next I added all the meshes and rendered everything, I couldn't figure out light
 
 And there's our render completed!
 
-## Day 5 - Github Shenanigans
+## Day 5 - GitHub Shenanigans - 2 Hours
 
 Now I needed to add all of this to GitHub, I left everything pretty organized so it won't be too much of a hassle! I pretty much have everything in there except for the production files so let's add those!
+
+First I'm going to add all my CAD files, I'm going to put all the separate files I need to 3D print, I have to separate all of the different parts to 3D print, but it's not too complicated so I got through with relative ease.
+
+![[Pasted image 20250705222145.png]]
+
+Next I need the production files, all the files I need to actually make my PCB. This is just the:
+- All PCB gerbers, drills, pick and place, etc.
+- All 3D printed parts
+- All firmware
+
+So I just moved my CAD folder into this new one, move the firmware file, and then made a ZIP file with all the gerbers and stuff.
+
+![[Pasted image 20250705224005.png]]
+
+And then finally, I had to add a new CAD folder with just my full case and then I also added my Onshape link as a txt just for the people that are looking there. And that is actually everything!
+
+![[Pasted image 20250705224428.png]]
+
+Time to add this on GitHub now, so journal... out....
+
+## Total Time Spent on This Project: 25 Hours
 
