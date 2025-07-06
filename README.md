@@ -32,6 +32,7 @@ The PCB was designed using KiCad and then I used Figma and the KiCad image conve
 The CYBERPAD-01 uses KMK firmware (written in Python) and was relatively straightforward.
 - The rotary encoder changes volume
 - The keys just act as VIM macro's
+- Neopixels to backlight and diffuse any color you want
 
 I'll probably make it a bit more complicated in the future, but I think it's kind of handy to have a macropad for some really complicated VIM stuff.
 
@@ -45,7 +46,8 @@ Here's everything you'll need to build the CYBERPAD-01:
 - 1x Seeed XIAO RP2040
 - 8x M2 Nut and Bolt, 1.5cm, Low profile top
 - 8x M2 Spacers, 3mm diameter, 0.6cm, circular, non-threaded
-- 1 Case (3 printed parts, 1 laser cut part)
+- 1 Case (3 printed parts)
+- 1 Custom Laser Cut Acrylic Panel
 
 ## Credits and Help
 
