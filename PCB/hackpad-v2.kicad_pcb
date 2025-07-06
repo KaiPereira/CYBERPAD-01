@@ -7608,7 +7608,7 @@
 			(drill oval 2.8 1.5)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "4836cee9-5dbf-4c85-a33c-9d33ee94587a")
+			(uuid "999eef10-9f23-462e-be9f-959b374cb539")
 		)
 		(pad "S1" thru_hole circle
 			(at 14.5 5 180)
@@ -39487,114 +39487,6 @@
 				(thickness 0.2)
 			)
 			(justify left bottom)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "F.SilkS")
-		(uuid "2dae50f4-c065-4991-a01d-6d3ccb22abcf")
-		(pts
-			(xy 65 65) (xy 135.905 65)
-		)
-		(height -13.2)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "70.9050 mm"
-			(at 100.4525 50.7 0)
-			(layer "F.SilkS")
-			(uuid "2dae50f4-c065-4991-a01d-6d3ccb22abcf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "F.SilkS")
-		(uuid "62002561-100b-4cb6-84f4-dfbf1232eb36")
-		(pts
-			(xy 65 65) (xy 140.4 65)
-		)
-		(height -6.6)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "75.4000 mm"
-			(at 102.7 57.3 0)
-			(layer "F.SilkS")
-			(uuid "62002561-100b-4cb6-84f4-dfbf1232eb36")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "F.SilkS")
-		(uuid "882ac4f7-b024-444c-851e-d6565438176e")
-		(pts
-			(xy 135.906864 64.772364) (xy 144.904 64.772364)
-		)
-		(height -17.772364)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "8.9971 mm"
-			(at 140.405432 45.9 0)
-			(layer "F.SilkS")
-			(uuid "882ac4f7-b024-444c-851e-d6565438176e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
 		)
 	)
 	(segment
