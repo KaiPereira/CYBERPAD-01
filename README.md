@@ -6,10 +6,10 @@ The CYBERPAD-01 is a cyberpunk inspired macropad with 3 keys, a rotary encoder, 
 ## Custom Features
 - Custom lasercut acrylic top panel
 - EC11 Rotary Encoder for anything really
-- 3 Keys to program to heart's content
+- 3 Keys to program to your heart's content
 - 14 SK6812 MINI-E LEDs for backlight and and diffusion
 - Cyberpunk inspired case for maximum aesthetic
--  Exposed PCB design with custom silkscreen
+-  Exposed PCB design with custom silkscreen cuz it's sick
 ## CAD Design
 
 I used Onshape to design all of my parts. The laser cut acrylic panel is held together using minimalist bolts and spacers attached to the top plate. The actual case is designed so that everything can fit together seamlessly without using any screws or bolts for minimalism and aesthetics while still being secure.
@@ -19,8 +19,7 @@ I used Onshape to design all of my parts. The laser cut acrylic panel is held to
 ![Pasted image 20250705185258.png](journal/Pasted%20image%2020250705185258.png)
 
 
-It comprises of 4 separate 3D printed parts though, the bottom plate/aesthetic walls, the walls, and the top plate, the rotary encoder knob, with the 5th part being the laser cut acrylic top panel, so it's a bit difficult to print, but manageable.
-
+It comprises of 4 separate 3D printed parts though, the bottom plate/aesthetic walls, the walls, and the top plate, the rotary encoder knob, with the 5th part being the laser cut acrylic top panel, so it's a bit difficult to print, but manageable. [Onshape Link](https://cad.onshape.com/documents/183c405de5c750134bf8a1de/w/282fa5c96ffeba0ae16f58ec/e/f98acd70bf74a51e29d61d0d?renderMode=0&uiState=6869deede1723828ff557213)
 ## PCB Design
 
 The PCB was designed using KiCad and then I used Figma and the KiCad image converter for creating the silkscreen layers. I actually imported the case design into KiCad so I could use it as reference for the silkscreen which turned out really well.
