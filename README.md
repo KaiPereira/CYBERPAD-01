@@ -12,14 +12,14 @@ The CYBERPAD-01 is a cyberpunk inspired macropad with 3 keys, a rotary encoder, 
 -  Exposed PCB design with custom silkscreen
 ## CAD Design
 
-The laser cut acrylic panel is held together using minimalist bolts and spacers attached to the top plate. The actual case is designed so that everything can fit together seamlessly without using any screws or bolts for minimalism and aesthetics while still being secure.
+I used Onshape to design all of my parts. The laser cut acrylic panel is held together using minimalist bolts and spacers attached to the top plate. The actual case is designed so that everything can fit together seamlessly without using any screws or bolts for minimalism and aesthetics while still being secure.
 
 ![Pasted image 20250705185532.png](journal/Pasted%20image%2020250705185532.png)
 
 ![Pasted image 20250705185258.png](journal/Pasted%20image%2020250705185258.png)
 
 
-It comprises of 3 separate 3D printed parts though, the bottom plate/aesthetic walls, the walls, and the top plate, with the 4th part being the acrylic top panel, so it's a bit difficult to print, but manageable. *Made in Onshape*
+It comprises of 4 separate 3D printed parts though, the bottom plate/aesthetic walls, the walls, and the top plate, the rotary encoder knob, with the 5th part being the laser cut acrylic top panel, so it's a bit difficult to print, but manageable.
 
 ## PCB Design
 
@@ -41,7 +41,12 @@ I'll probably make it a bit more complicated in the future, but I think it's kin
 Here's everything you'll need to build the CYBERPAD-01:
 - 3x Cherry MX Switches
 - 3x Keycaps of your choice (I would personally suggest black ones)
-
+- 14x SK6812 MINI-E LEDs
+- 1x EC11 Rotary Encoder
+- 1x Seeed XIAO RP2040
+- 8x M2 Nut and Bolt, 1.5cm, Low profile top
+- 8x M2 Spacers, 3mm diameter, 0.6cm, circular, non-threaded
+- 1 Case (3 printed parts, 1 laser cut part)
 
 
 
