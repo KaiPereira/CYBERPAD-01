@@ -48,5 +48,7 @@ Here's everything you'll need to build the CYBERPAD-01:
 - 8x M2 Spacers, 3mm diameter, 0.6cm, circular, non-threaded
 - 1 Case (3 printed parts, 1 laser cut part)
 
+## Credits and Help
 
+Thanks to @qcoral and @acornitum for starting highway and reviewing projects. @M0HID and @jamdotjar for helping me with Blender and @cheyao for the firmware starter code and helping me make my first macropad!
 
