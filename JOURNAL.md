@@ -1,3 +1,10 @@
+---
+title: "CYBERPAD-01"
+author: "Kai Pereira"
+description: "3 key, cyberpunk inspired macropad with backlight and a rotary encoder"
+created_at: "2025-07-08"
+---
+
 ## Total Time Spent on This Project: 25 Hours
 
 ## Day 1 - PCB - 5 Hours - Jun 30th

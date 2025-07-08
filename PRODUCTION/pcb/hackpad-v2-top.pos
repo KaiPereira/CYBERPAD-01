@@ -1,0 +1,25 @@
+### Footprint positions - created on 2025-07-05T22:35:22-0700 ###
+### Printed by KiCad version 9.0.2-9.0.2-0~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                              PosX       PosY       Rot  Side
+D1        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm            83.7000   -72.7000    0.0000  top
+D2        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm            71.9500   -82.1750    0.0000  top
+D3        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm            95.5000   -81.6000    0.0000  top
+D4        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm            83.4034   -91.7551    0.0000  top
+D5        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           127.9282  -107.9632    0.0000  top
+D6        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           152.5000  -120.2000   90.0000  top
+D7        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           102.9778  -109.4080    0.0000  top
+D8        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm            78.7416  -130.2049    0.0000  top
+D9        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           109.0000  -120.6000   90.0000  top
+D10       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           130.9190  -132.6727    0.0000  top
+D11       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           121.1253   -89.4257    0.0000  top
+D12       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           140.3000   -89.4000    0.0000  top
+D13       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           152.4750  -100.9500   90.0000  top
+D14       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm           153.2647   -72.9667    0.0000  top
+SW1       RotaryEncoder    RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm    91.0000   -84.6000  180.0000  top
+SW2       SW_Push          SW_Cherry_MX_1.00u_PCB                           123.8000  -115.3200    0.0000  top
+SW3       SW_Push          SW_Cherry_MX_1.00u_PCB                           143.0200   -96.1200    0.0000  top
+SW4       SW_Push          SW_Cherry_MX_1.00u_PCB                           143.0000  -115.3200    0.0000  top
+U1        XIAO-RP2040-DIP  XIAO-RP2040-DIP                                  140.4000   -75.7685    0.0000  top
+## End
