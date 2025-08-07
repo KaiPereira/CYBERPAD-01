@@ -5,7 +5,7 @@ description: "3 key, cyberpunk inspired macropad with backlight and a rotary enc
 created_at: "2025-07-08"
 ---
 
-## Total Time Spent on This Project: 25 Hours
+## Total Time Spent on This Project: 29 Hours
 
 ## Day 1 - PCB - 5 Hours - Jun 30th
 
@@ -161,7 +161,7 @@ And then finally, I had to add a new CAD folder with just my full case and then 
 
 ![Pasted image 20250705224428.png](journal/Pasted%20image%2020250705224428.png)
 
-## Day 6 - Soldering and Case
+## Day 6 - Soldering and Case - 4 Hours
 
 I like to order my days chronologically, but a couple weeks have passed! Now I've receive my boards and just have to solder them and assemble it. So first things first, I whipped out all the soldering stuff.
 
