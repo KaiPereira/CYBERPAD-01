@@ -161,6 +161,29 @@ And then finally, I had to add a new CAD folder with just my full case and then 
 
 ![Pasted image 20250705224428.png](journal/Pasted%20image%2020250705224428.png)
 
-Time to add this on GitHub now, so journal... out....
+## Day 6 - Soldering and Case
+
+I like to order my days chronologically, but a couple weeks have passed! Now I've receive my boards and just have to solder them and assemble it. So first things first, I whipped out all the soldering stuff.
+
+I like to use my trusty pinecil with resin core leaded solder and then I use some wire cutters to cut off the strands.
+
+Something I learned about doing the neopixels, especially SMD like this, is to tin the pads, and then bend the leads so that they touch all the pads, and then just touch the solder to the pads, works very nicely.
+
+Anyways, the boards turned out very nice, and then I added some github keycaps onto them.
+
+![[Pasted image 20250807050448.png]]
+
+Next I needed to assemble the case. I just glued the walls onto the sides nicely, and then I actually forgot to get the top part of my case printed, so I used duck tape to like hold it in place, and I feel like it turned out pretty nice. 
+
+I skipped on the acrylic for now, but all stuff I need to do when I get back from my vacation:
+
+![[Pasted image 20250807050609.png]]
+
+And then I just simply uploaded my code, and booted up the XIAO using the UF2 from the circuit python website, and it was ready to go!
+
+I'm a bit sad I didn't get the neopixels to work in time for my trip, but I'll get them working eventually!
+
+
+
 
 
