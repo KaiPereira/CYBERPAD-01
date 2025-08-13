@@ -42,6 +42,8 @@ The build was decently simple, I soldered all the switches, neopixels and the XI
 
 ![IMG_1542.jpg](journal/IMG_1542.jpg)
 
+Here's a simple demo too: https://youtu.be/StyHCeADP-Q
+
 ## Bill of Materials (BOM)
 
 Here's everything you'll need to build the CYBERPAD-01:
