@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOURNAL"
+              "title": "README"
             }
           }
         ]
@@ -170,11 +170,13 @@
   },
   "active": "c30317d3ed978f44",
   "lastOpenFiles": [
+    "README.md~",
+    "journal/IMG_1542.jpg",
+    "JOURNAL.md",
     "Pasted image 20250807050609.png",
     "Pasted image 20250807050448.png",
     "Pasted image 20250807050445.png",
     "Pasted image 20250807050444.png",
-    "README.md~",
     "Pasted image 20250705224428.png",
     "journal/Pasted image 20250705224005.png",
     "CAD_DEV/onshape_link.txt",
@@ -190,10 +192,7 @@
     "PCB_DEV/hackpad-v2-backups/hackpad-v2-2025-07-04_023718.zip",
     "journal/Pasted image 20250705222120.png",
     "journal/Pasted image 20250705222145.png",
-    "Pasted image 20250705222145.png",
-    "Pasted image 20250705222120.png",
     "README.md",
-    "JOURNAL.md",
     "journal/![[Pasted.md"
   ]
 }
