@@ -61,4 +61,4 @@ Here's everything you'll need to build the CYBERPAD-01:
 
 Thanks to @qcoral and @acornitum for starting highway and reviewing projects. @M0HID and @jamdotjar for helping me with Blender and @cheyao for the firmware starter code and helping me make my first macropad!
 
-Also, thanks so much to PCBWay for sponsoring the yellow silkscreen PCB's, they look absolutely amazing and I'd highly suggest checking them out if you need really cool looking PCB's!
+Also, thanks so much to [PCBWay](https://www.pcbway.com/) for sponsoring the yellow silkscreen PCB's, they look absolutely amazing and I'd highly suggest checking them out if you need really cool looking PCB's and fast turnaround!
