@@ -171,13 +171,13 @@ Something I learned about doing the neopixels, especially SMD like this, is to t
 
 Anyways, the boards turned out very nice, and then I added some github keycaps onto them.
 
-![[Pasted image 20250807050448.png]]
+![Pasted image 20250807050448.png](journal/Pasted%20image%2020250807050448.png)
 
 Next I needed to assemble the case. I just glued the walls onto the sides nicely, and then I actually forgot to get the top part of my case printed, so I used duck tape to like hold it in place, and I feel like it turned out pretty nice. 
 
 I skipped on the acrylic for now, but all stuff I need to do when I get back from my vacation:
 
-![[Pasted image 20250807050609.png]]
+![Pasted image 20250807050609.png](journal/Pasted%20image%2020250807050609.png)
 
 And then I just simply uploaded my code, and booted up the XIAO using the UF2 from the circuit python website, and it was ready to go!
 
