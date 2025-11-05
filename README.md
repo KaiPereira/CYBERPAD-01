@@ -1,4 +1,4 @@
-# CYBERPAD-01
+# CYBERPAD-01 - Cyberpunk Inspired Macropad
 
 ![Journal Image](journal/Pasted%20image%2020250705163430.png)
 
