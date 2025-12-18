@@ -36,14 +36,6 @@ The CYBERPAD-01 uses KMK firmware (written in Python) and was relatively straigh
 
 I'll probably make it a bit more complicated in the future, but I think it's kind of handy to have a macropad for some really complicated VIM stuff.
 
-## Build Process
-
-The build was decently simple, I soldered all the switches, neopixels and the XIAO onto the board using my pinecil. The neopixels were a pain because they were SMD but used a reverse mount footprint. I also didn't get my rotary encoder in time and not all my 3D printed parts came, but it looks really cool still:
-
-![IMG_1542.jpg](journal/IMG_1542.jpg)
-
-Here's a simple demo too: https://youtu.be/StyHCeADP-Q
-
 ## Bill of Materials (BOM)
 
 Here's everything you'll need to build the CYBERPAD-01:
