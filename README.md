@@ -1,6 +1,6 @@
 # CYBERPAD-01 - Cyberpunk Inspired Macropad
 
-![Journal Image](journal/Pasted%20image%2020250705163430.png)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/264248f1-2110-4f59-a10f-19058d3db5ec" />
 
 The CYBERPAD-01 is a cyberpunk inspired macropad with 3 keys, a rotary encoder, and a whole lotta silkscreen and neopixels. It uses KMK firmware and was meant to serve as a learning opportunity for PCB's, CAD and rendering. 
 ## Custom Features
